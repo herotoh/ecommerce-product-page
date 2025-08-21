@@ -5,7 +5,7 @@ import React, { useState } from 'react'; // Import useState hook
 const product = {
   id: 'book-101',
   imageUrl: 'https://news.bsr2.com/uploads/images/202508/image_870x_689ddf98012be.jpg', // Placeholder image URL
-  title: 'My home my HDB ',
+  title: 'My home my HDB at singapore',
   description: 'A  comprehensive guide to mastering efficient software development workflows, including version control, GitHub, build images, and RESTful API design. Learn best practices for modern software engineering.',
   price: 29.99,
   currency: '$',
