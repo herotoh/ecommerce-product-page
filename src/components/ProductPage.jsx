@@ -5,8 +5,8 @@ import React, { useState } from 'react'; // Import useState hook
 const product = {
   id: 'book-101',
   imageUrl: 'https://news.bsr2.com/uploads/images/202508/image_870x_689ddf98012be.jpg', // Placeholder image URL
-  title: 'Tip top Currypok for HDB  ',
-  description: 'A  comprehensive guide to mastering efficient software development workflows, including version control, GitHub, build images, and RESTful API design. Learn best practices for modern software engineering.',
+  title: 'Practical Performance Assessment ',
+  description: 'Efficient Software Development Workflow: Version Control, GitHub, Build Images and Swagger Design for RESTful APIs',
   price: 29.99,
   currency: '$',
   stock: 10,
